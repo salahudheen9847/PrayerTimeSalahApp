@@ -1,4 +1,4 @@
-package com.prayertimesalahapp
+package com.salahudheen.prayertimesalah
 
 import android.app.Application
 import com.facebook.react.PackageList

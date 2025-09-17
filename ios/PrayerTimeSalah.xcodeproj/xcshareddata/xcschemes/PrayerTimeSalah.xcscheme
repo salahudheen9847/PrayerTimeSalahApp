@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "PrayerTimeSalahApp.app"
-               BlueprintName = "PrayerTimeSalahApp"
-               ReferencedContainer = "container:PrayerTimeSalahApp.xcodeproj">
+               BuildableName = "PrayerTimeSalah.app"
+               BlueprintName = "PrayerTimeSalah"
+               ReferencedContainer = "container:PrayerTimeSalah.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PrayerTimeSalahAppTests.xctest"
-               BlueprintName = "PrayerTimeSalahAppTests"
-               ReferencedContainer = "container:PrayerTimeSalahApp.xcodeproj">
+               BuildableName = "PrayerTimeSalahTests.xctest"
+               BlueprintName = "PrayerTimeSalahTests"
+               ReferencedContainer = "container:PrayerTimeSalah.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PrayerTimeSalahApp.app"
-            BlueprintName = "PrayerTimeSalahApp"
-            ReferencedContainer = "container:PrayerTimeSalahApp.xcodeproj">
+            BuildableName = "PrayerTimeSalah.app"
+            BlueprintName = "PrayerTimeSalah"
+            ReferencedContainer = "container:PrayerTimeSalah.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PrayerTimeSalahApp.app"
-            BlueprintName = "PrayerTimeSalahApp"
-            ReferencedContainer = "container:PrayerTimeSalahApp.xcodeproj">
+            BuildableName = "PrayerTimeSalah.app"
+            BlueprintName = "PrayerTimeSalah"
+            ReferencedContainer = "container:PrayerTimeSalah.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
